@@ -6,5 +6,7 @@ public class Main {
         // VCS -> Enable Versio Control Integration -> Git
         // Version Control Shortcut: Ait+9
 
+        // Commit: Ctrl+K
+
     }
 }
